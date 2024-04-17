@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\all_any\all_any\bin\Debug\net8.0\all_any.exe
+C:\Users\Administrator\source\repos\all_any\all_any\bin\Debug\net8.0\all_any.deps.json
+C:\Users\Administrator\source\repos\all_any\all_any\bin\Debug\net8.0\all_any.runtimeconfig.json
+C:\Users\Administrator\source\repos\all_any\all_any\bin\Debug\net8.0\all_any.dll
+C:\Users\Administrator\source\repos\all_any\all_any\bin\Debug\net8.0\all_any.pdb
+C:\Users\Administrator\source\repos\all_any\all_any\obj\Debug\net8.0\all_any.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\all_any\all_any\obj\Debug\net8.0\all_any.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\all_any\all_any\obj\Debug\net8.0\all_any.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\all_any\all_any\obj\Debug\net8.0\all_any.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\all_any\all_any\obj\Debug\net8.0\all_any.dll
+C:\Users\Administrator\source\repos\all_any\all_any\obj\Debug\net8.0\refint\all_any.dll
+C:\Users\Administrator\source\repos\all_any\all_any\obj\Debug\net8.0\all_any.pdb
+C:\Users\Administrator\source\repos\all_any\all_any\obj\Debug\net8.0\all_any.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\all_any\all_any\obj\Debug\net8.0\ref\all_any.dll

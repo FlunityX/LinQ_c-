@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\from-where-select\from-where-select\bin\Debug\net8.0\from-where-select.exe
+C:\Users\Administrator\source\repos\from-where-select\from-where-select\bin\Debug\net8.0\from-where-select.deps.json
+C:\Users\Administrator\source\repos\from-where-select\from-where-select\bin\Debug\net8.0\from-where-select.runtimeconfig.json
+C:\Users\Administrator\source\repos\from-where-select\from-where-select\bin\Debug\net8.0\from-where-select.dll
+C:\Users\Administrator\source\repos\from-where-select\from-where-select\bin\Debug\net8.0\from-where-select.pdb
+C:\Users\Administrator\source\repos\from-where-select\from-where-select\obj\Debug\net8.0\from-where-select.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\from-where-select\from-where-select\obj\Debug\net8.0\from-where-select.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\from-where-select\from-where-select\obj\Debug\net8.0\from-where-select.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\from-where-select\from-where-select\obj\Debug\net8.0\from-where-select.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\from-where-select\from-where-select\obj\Debug\net8.0\from-where-select.dll
+C:\Users\Administrator\source\repos\from-where-select\from-where-select\obj\Debug\net8.0\refint\from-where-select.dll
+C:\Users\Administrator\source\repos\from-where-select\from-where-select\obj\Debug\net8.0\from-where-select.pdb
+C:\Users\Administrator\source\repos\from-where-select\from-where-select\obj\Debug\net8.0\from-where-select.genruntimeconfig.cache
+C:\Users\Administrator\source\repos\from-where-select\from-where-select\obj\Debug\net8.0\ref\from-where-select.dll
